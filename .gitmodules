@@ -1,0 +1,6 @@
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json.git
+[submodule "external/GArgs"]
+	path = external/GArgs
+	url = https://github.com/GustavJones/GArgs
